@@ -2000,7 +2000,7 @@ What's the Advantage oF Thread Pool ?
 
   
 
-![](https://t9016373936.p.clickup-attachments.com/t9016373936/9ae4f390-feda-4b7a-9733-d81707877c72/image.png)
+![](https://github.com/sauravsaxena7/Advanced-Backend-With-Spring-Boot-Java-and-SQL-/blob/master/notes%20assets%20storage/multithreading/t6.png)
 
   
 
@@ -2145,7 +2145,7 @@ Handler for tasks that can not be accepted by thread pool. Generally logging log
 
   
 
-![](https://t9016373936.p.clickup-attachments.com/t9016373936/e50f5c2d-1ff0-4d05-a9f6-d3b2dbf910de/ThreadPoolLifeCycle.PNG)
+![](https://github.com/sauravsaxena7/Advanced-Backend-With-Spring-Boot-Java-and-SQL-/blob/master/notes%20assets%20storage/multithreading/t7.png)
 
   
   
