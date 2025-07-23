@@ -1929,7 +1929,7 @@ lt3 & lt4 thread threadresources1.get(): 20000
 
   
 
-![](https://t9016373936.p.clickup-attachments.com/t9016373936/266901d7-f61e-4810-b00b-80c62b1ce4eb/image.png)
+![](https://github.com/sauravsaxena7/Advanced-Backend-With-Spring-Boot-Java-and-SQL-/blob/master/notes%20assets%20storage/multithreading/t4.png)
 
   
 
@@ -1970,7 +1970,7 @@ lt3 & lt4 thread threadresources1.get(): 20000
 
   
 
-![](https://t9016373936.p.clickup-attachments.com/t9016373936/0e22cc4f-90ab-4edc-aa74-84fc9f12bcdf/image.png)
+![](https://github.com/sauravsaxena7/Advanced-Backend-With-Spring-Boot-Java-and-SQL-/blob/master/notes%20assets%20storage/multithreading/t5.png)
 
   
 
