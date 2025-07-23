@@ -75,11 +75,6 @@ Process finished with exit code 0
   
 
 ![](https://github.com/sauravsaxena7/Advanced-Backend-With-Spring-Boot-Java-and-SQL-/blob/master/notes%20assets%20storage/multithreading/t2.png)
-
-  
-
-![](https://t9016373936.p.clickup-attachments.com/t9016373936/c058569c-7a98-499e-9756-03afb4f4338a/image.png)
-
   
 
 6\. **Code Segment:-**
