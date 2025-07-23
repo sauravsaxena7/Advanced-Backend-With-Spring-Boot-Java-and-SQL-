@@ -366,7 +366,7 @@ Process finished with exit code 0
 
   
 
-![](https://t9016373936.p.clickup-attachments.com/t9016373936/48948515-1aee-48f8-8f76-59e3e606c023/image.png)
+![](https://github.com/sauravsaxena7/Advanced-Backend-With-Spring-Boot-Java-and-SQL-/blob/master/notes%20assets%20storage/multithreading/t3.png)
 
   
   
