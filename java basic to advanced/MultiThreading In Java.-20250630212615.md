@@ -3327,7 +3327,7 @@ public static ExecutorService newWorkStealingPool(int parallelism) {
 
   
 
-![](https://t9016373936.p.clickup-attachments.com/t9016373936/7c60f77a-0a3a-4951-96b8-2abbf7d58345/image.png)
+![](https://github.com/sauravsaxena7/Advanced-Backend-With-Spring-Boot-Java-and-SQL-/blob/master/notes%20assets%20storage/multithreading/t8.png)
 
   
 
@@ -3585,7 +3585,7 @@ Process finished with exit code 0
 
   
 
-![](https://t9016373936.p.clickup-attachments.com/t9016373936/e372e56d-eebe-4815-bf45-23d0420c9b5d/image.png)
+![](https://github.com/sauravsaxena7/Advanced-Backend-With-Spring-Boot-Java-and-SQL-/blob/master/notes%20assets%20storage/multithreading/t9.png)
 
   
   
@@ -4069,7 +4069,7 @@ myExecutorObj .submit(new RunnableTask());
 
   
 
-![](https://t9016373936.p.clickup-attachments.com/t9016373936/7211ce13-2ccb-4a52-8178-e22099c61bbc/image.png)
+![](https://github.com/sauravsaxena7/Advanced-Backend-With-Spring-Boot-Java-and-SQL-/blob/master/notes%20assets%20storage/multithreading/t10.png)
 
   
 
@@ -4083,4 +4083,4 @@ myExecutorObj .submit(new RunnableTask());
 
   
 
-![](https://t9016373936.p.clickup-attachments.com/t9016373936/82cca382-3d42-43fc-aaf2-4c13b2a5601d/image.png)
+![](https://github.com/sauravsaxena7/Advanced-Backend-With-Spring-Boot-Java-and-SQL-/blob/master/notes%20assets%20storage/multithreading/t11.png)
